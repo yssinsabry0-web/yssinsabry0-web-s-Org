@@ -1,0 +1,6 @@
+{
+  "name": "GLOAM — Members' Air",
+  "description": "Thirty-eight suites a flight, three windows to every suite, and a shade that answers to no one but you. We fly at the hour light is best.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
